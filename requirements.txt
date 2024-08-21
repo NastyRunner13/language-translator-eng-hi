@@ -1,0 +1,11 @@
+transformers
+gradio
+ipywidgets
+torch
+torchaudio
+torchvision
+tensorflow
+tf-keras
+streamlit
+pickle
+sacremoses
