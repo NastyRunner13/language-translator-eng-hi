@@ -51,10 +51,3 @@ This project includes a language translator app developed using Streamlit, which
    streamlit run app.py
 
 2. The app will open in your web browser. You can enter English text in the input field, and the app will translate it to Hindi using the trained model.
-
-## Project Structure
-
-language_translator.ipynb: Jupyter notebook used for training the model.
-app.py: The main file that contains the code for the Streamlit app.
-tf_model/: A folder that contains the trained model used for translation.
-requirements.txt: A file containing all the Python dependencies required to run the project.
